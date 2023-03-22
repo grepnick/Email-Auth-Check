@@ -1,5 +1,7 @@
-# Email-Auth-Check
-A script for Windows, Mac, and Linux to check Exchange Online and Google Workspace tenant domains for SPF, DKIM, and DMARC records.
+# Email Auth Records Check
+A script for Windows, Mac, and Linux to check Exchange Online and Google Workspace tenant domains for SPF, DKIM, and DMARC records. 
+
+**It's 2023 people, please fix your email authentication records.**
 
 *Features:*
 - Checks for duplicate SPF, DKIM, and DMARC records.
