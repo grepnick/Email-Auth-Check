@@ -1,12 +1,19 @@
 # Email-Auth-Check
 A script for Windows, Mac, and Linux to check Exchange Online and Google Workspace tenant domains for SPF, DKIM, and DMARC records.
 
+*Features:*
+- Checks for duplicate SPF, DKIM, and DMARC records.
+- Verifes valid selectors exist.
+- Color output.
+
 ## Windows / PowerShell
 ![image](https://user-images.githubusercontent.com/124594745/226958995-84c73495-197c-4794-81a8-1d53578ad913.png)
 
 ## Mac / Bash
 
 ## Linux / Bash
+![image](https://user-images.githubusercontent.com/124594745/226972789-541f437b-e012-44db-ac42-6e951e1b4ed6.png)
+
 
 ## \*nix / Python
 ![image](https://user-images.githubusercontent.com/124594745/226962601-4a7555a2-2e77-47e4-8cc5-de5977adaced.png)
