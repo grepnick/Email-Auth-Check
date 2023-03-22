@@ -9,7 +9,9 @@ A script for Windows, Mac, and Linux to check Exchange Online and Google Workspa
 ## Linux / Bash
 
 ## \*nix / Python
+![image](https://user-images.githubusercontent.com/124594745/226962241-36cfd7ff-3453-4903-aa9d-cf26b07eeb4d.png)
 
+## Usage
 You can specify a domain as a parameter on the CLI, or you can enther the domain interactively.
 
 ![image](https://user-images.githubusercontent.com/124594745/226958676-bf91cf96-deb3-44b7-aa90-4c230fb39ee6.png)
