@@ -2,6 +2,7 @@
 
 # A Bash script that looks up SPF, DKIM, and DMARC records for Google Workspace and Microsoft 365 domains.
 # Author: Nick Marsh
+# Note: Tested on Linux and macOS
 
 clear
 
