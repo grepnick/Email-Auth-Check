@@ -10,12 +10,14 @@ A script for Windows, Mac, and Linux to check Exchange Online and Google Workspa
 
 ## Windows / PowerShell
 ![image](https://user-images.githubusercontent.com/124594745/226958995-84c73495-197c-4794-81a8-1d53578ad913.png)
-
+Download: [email-auth-check.ps1](https://github.com/grepnick/Email-Auth-Check/blob/main/Email-Auth-Check.ps1)
 ## Linux or macOS / Bash
 ![image](https://user-images.githubusercontent.com/124594745/226972789-541f437b-e012-44db-ac42-6e951e1b4ed6.png)
+Download: [email-auth-check.sh](https://github.com/grepnick/Email-Auth-Check/blob/main/email-auth-check.sh)
 
 ## \*nix / Python
 ![image](https://user-images.githubusercontent.com/124594745/226962601-4a7555a2-2e77-47e4-8cc5-de5977adaced.png)
+Download: [email-auth-check.py](https://github.com/grepnick/Email-Auth-Check/blob/main/email-auth-check.py)
 
 ## Usage
 You can specify a domain as a parameter on the CLI, or you can enther the domain interactively.
